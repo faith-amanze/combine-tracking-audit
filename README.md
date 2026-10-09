@@ -29,3 +29,6 @@ The notebook is written for Kaggle and reads the data from the /kaggle/input/...
 
 ## Data
 The competition data is not included here. Get it from the NFL Big Data Bowl 2027 competition page on Kaggle (CC BY-NC 4.0).
+
+## Citation
+Data: Michael Lopez, Ally Blake, Tom Bliss, Addison Howard, and Paul Mooney. NFL Big Data Bowl 2027. https://www.kaggle.com/competitions/nfl-big-data-bowl-2027, 2026. Kaggle. Licensed under CC BY-NC 4.0.
